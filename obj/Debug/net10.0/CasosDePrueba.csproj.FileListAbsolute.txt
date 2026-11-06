@@ -1,0 +1,14 @@
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\bin\Debug\net10.0\CasosDePrueba.exe
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\bin\Debug\net10.0\CasosDePrueba.deps.json
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\bin\Debug\net10.0\CasosDePrueba.runtimeconfig.json
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\bin\Debug\net10.0\CasosDePrueba.dll
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\bin\Debug\net10.0\CasosDePrueba.pdb
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\CasosDePrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\CasosDePrueba.AssemblyInfoInputs.cache
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\CasosDePrueba.AssemblyInfo.cs
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\CasosDePrueba.csproj.CoreCompileInputs.cache
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\CasosDePrueba.dll
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\refint\CasosDePrueba.dll
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\CasosDePrueba.pdb
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\CasosDePrueba.genruntimeconfig.cache
+C:\Users\Migue\OneDrive\Documents\apps\CasosDePrueba\obj\Debug\net10.0\ref\CasosDePrueba.dll
